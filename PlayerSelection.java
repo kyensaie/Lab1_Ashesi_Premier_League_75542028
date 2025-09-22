@@ -1,4 +1,4 @@
-// For Task 10 we are to create one full program that takes a player’s details, applies all the checks and decisions from the earlier tasks 1-9, and prints a complete Player Report with a fall-through demo.
+// For Task 10 we are to create one full program that takes a player’s details, using all the checks and decisions from the earlier tasks 1-9, and print the complete Player Report with a fall-through demo.
 import java.util.Scanner;
 
 public class PlayerSelection {
@@ -121,3 +121,4 @@ public class PlayerSelection {
         sc.close();
     }
 }
+
